@@ -111,6 +111,11 @@
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>9.2.2.v20140723</version>
 			</plugin>
+			<plugin>
+				<groupId>org.codehaus.sonar</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>4.4</version>
+			</plugin>
 		</plugins>
 	</build>	
 	<groupId>ex.spring</groupId>
